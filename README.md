@@ -78,4 +78,4 @@ Line 49-52: Instantiating a WebSocketProvider instance, and assigning it to the 
 Line 54-65: Getting the transaction body by hash, and printing the transactions. 
 
 Step3.
-When we run this file, it should output a stream of pending transactions currently in the mempool.
+When we run this file with this command on your terminal $ node index.js, it should output a stream of pending transactions currently in the mempool.
