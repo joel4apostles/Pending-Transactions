@@ -23,7 +23,7 @@ CLI
 Step 1.
 Install web3.js by executing the following command in your terminal or command line: $ npm install web3
 
-Make sure you have web3.js installed by checking the version of web3 installed with this command line: $ node -v
+Make sure you have node.js installed and running on our system by checking the version of node installed with this command line: $ node -v
 If web3 is installed the installed version will display on your terminal or command line.
 
 Step 2.
