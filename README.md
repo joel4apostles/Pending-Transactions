@@ -1,7 +1,7 @@
 # Pending-Transactions
-EVM compiatble Mempool Pending Transaction
+Etherum and EVM compatitble Mempool Pending Transaction
 
-On Ethereum and EVM compitatble protocol, when a transaction is sent, before being added to a block, it resides in Mempool, a mempool or TxPool is a waiting area for the transactions that have not been added to a block and are still unconfirmed. To receive information about this transaction, the Mempool must be queried. When Etherum of any EVM blockchain receives a transaction, the transaction needs to be propagated to a peer node until a miner picks up the transaction and added it to a block, however, before the transaction is added to the next block, the transaction remains in the waiting pool known as mempool, pending transaction or txpool. 
+On Ethereum and EVM compatitble protocol, when a transaction is sent, before being added to a block, it resides in Mempool, a mempool or TxPool is a waiting area for the transactions that have not been added to a block and are still unconfirmed. To receive information about this transaction, the Mempool must be queried. When Etherum of any EVM blockchain receives a transaction, the transaction needs to be propagated to a peer node until a miner picks up the transaction and added it to a block, however, before the transaction is added to the next block, the transaction remains in the waiting pool known as mempool, pending transaction or txpool. 
 
 
 In order to query a Geth node's Mempool, TX-POOL or Transaction Pool: Make a cURL request to the transaction pool/mempool of your node using below cURL request.
